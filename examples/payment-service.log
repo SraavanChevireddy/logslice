@@ -1,0 +1,3 @@
+2024-01-01 12:00:00.070 INFO [trace=req-7f3a] charging card
+2024-01-01 12:00:00.380 WARN [trace=req-7f3a] gateway slow, retried once
+2024-01-01 12:00:00.390 INFO [trace=req-7f3a] charge approved

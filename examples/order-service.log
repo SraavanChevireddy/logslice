@@ -1,0 +1,3 @@
+{"ts":"2024-01-01T12:00:00.050Z","level":"INFO","trace_id":"req-7f3a","msg":"creating order"}
+{"ts":"2024-01-01T12:00:00.060Z","level":"INFO","trace_id":"req-7f3a","msg":"calling payment-service"}
+{"ts":"2024-01-01T12:00:00.400Z","level":"INFO","trace_id":"req-7f3a","msg":"order persisted id=8821"}
