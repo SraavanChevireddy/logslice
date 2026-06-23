@@ -6,6 +6,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 
+![logslice in action](demo/demo.gif)
+
 When a request fails somewhere across five services, you end up `grep`-ing the same trace id in five terminals and mentally interleaving timestamps. **logslice** does that for you: it scans every log file, pulls the lines for your trace id, parses each timestamp (across different log formats), and merges them into one timeline you can actually read.
 
 No agents, no collector, no vendor. Just your existing log files.
